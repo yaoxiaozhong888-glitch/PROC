@@ -4,6 +4,9 @@ This workspace is organized for bank-style PostgreSQL migration development with
 
 ## Directory Layout
 
+
+
+
 ```text
 src/          ECPG, C source files, and shared headers
 sql/          PostgreSQL DDL, DML, functions, indexes, grants, and rollback SQL
